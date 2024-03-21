@@ -6,16 +6,16 @@ time.sleep(2)
 
 broj = float(input('Izaberi broj: ')
 
-load1 = 'kompjuter razmislja'
-laod2 = 'kompjuter razmislja.'
-load3 = 'kompjuter razmislja..'
-load4 = 'kompjuter razmislja...'
+load_1 = 'kompjuter razmislja'
+laod_2 = 'kompjuter razmislja.'
+load_3 = 'kompjuter razmislja..'
+load_4 = 'kompjuter razmislja...'
 
-print(load1)
+print(load_1)
 time.sleep(0.5)
-print(load2)
+print(load_2)
 time.sleep(0.5)
-print(load3)
+print(load_3)
 time.sleep(0.5)
 
 print('opusti se rale')
